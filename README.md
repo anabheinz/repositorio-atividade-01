@@ -1,4 +1,5 @@
-# repositorio-atividade-01
-Repositório da Atividade 01 da disciplina Manutenção de Software e DevOps
-Aluna: Ana Beatriz Heinzelmann
-Matrícula: 2324291003 
+# hello-world
+Hello World repository for Git tutorial
+This is an example repository for the Git tutoial on https://www.w3schools.com
+
+This repository is built step by step in the tutorial.
